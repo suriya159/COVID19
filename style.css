@@ -1,0 +1,32 @@
+.container{
+    color: white;
+    text-align: center;
+    
+}
+body{
+    background-color: rgb(236, 210, 145);
+
+}
+.rr{
+    margin: 100px;
+    width:fit-content;
+    height:fit-content;
+}
+.nn{
+    background-color: rgb(47, 255, 245);
+    
+}
+
+.cont{
+    margin: 10px;
+max-width: 700px;
+height: 1000px;
+background-color:white;
+background-blend-mode:lighten;
+text-align: center;
+border-radius: 20px;
+font-style: italic;
+
+
+}
+
